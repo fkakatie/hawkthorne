@@ -23,6 +23,33 @@ body {
 
 /*
 ==============================
+GAME BOX
+==============================
+*/
+
+#game {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/*
+==============================
+CHARACTER BOXES
+==============================
+*/
+
+.charbox {
+    border: 2px solid #690;
+    width: 200px;
+    /* height: 100px; */
+    text-align: center;
+    padding: 0.5em;
+    margin: 0.1em;
+}
+
+/*
+==============================
 FOOTER
 ==============================
 */
