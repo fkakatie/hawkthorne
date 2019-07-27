@@ -1,0 +1,33 @@
+/*
+==============================
+BASIC SETUP
+==============================
+*/
+
+body {
+    font-family: hydrophilia-iced, sans-serif;
+    /* font-family: lores-12, sans-serif; */
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    background: #000;
+    color: #690;
+}
+
+.container {
+    width: 980px;
+    max-width: 98%;
+    margin: 0 auto;
+    padding: 0.2em 0;
+}
+
+/*
+==============================
+FOOTER
+==============================
+*/
+
+footer {
+    font-size: 0.5em;
+    text-align: center;
+}
